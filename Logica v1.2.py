@@ -8,7 +8,7 @@
 
 #######################################################################
 # ******************************************************************* #
-# *               APRENDIZAJE BASIDO DE PUERTAS LOGICAS             * #
+# *               APRENDIZAJE BASICO DE PUERTAS LOGICAS             * #
 # *                   Autor:  Eulogio López Cayuela                 * #
 # *                                                                 * #
 # *                  Versión 1.2   Fecha: 13/12/2014                * #
