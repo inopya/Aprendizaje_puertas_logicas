@@ -837,7 +837,7 @@ sensibilidadDobleClick = int(tiempoDobleClick / FPS)
 contadorDobleClickEnObjetos = sensibilidadDobleClick + 1
 contadorDobleClickGenerico = sensibilidadDobleClick + 1
 
-infoScreenNumber = ''
+infoScreenNumber = 9  #asi inicia mostrando la ayuda o poner ('') sin los parentesis para que iniciar directamente
 
 BACKGROUND_COLOR = COLOR_NEGRO
 
